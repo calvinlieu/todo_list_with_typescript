@@ -1,5 +1,7 @@
 # New Project
 
+A simple to do list application created with Snowpack and TypeScript
+
 > ✨ Bootstrapped with Create Snowpack App (CSA).
 
 ## Available Scripts
